@@ -1,4 +1,4 @@
-# askmarcel-app
+# Ask Marcel
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,118 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-askmarcel-app is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://askmarcel.app/
+Ask Marcel provides the largest HVAC troubleshooting database for UK engineers, offering over 400,000 error codes across 126 brands and 905 models. The platform includes a web and mobile app, API/MCP for developers, and detailed documentation to integrate fault code lookup into tools and services. It aims to simplify HVAC maintenance, reduce downtime, and support both technicians and integrators with comprehensive manufacturer-sourced information.
+
+**Areas:** HVAC · Engineering · Troubleshooting · Database · API
+
+## Ask Marcel on APIs.io
+
+Everything profiled for Ask Marcel is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/askmarcel-app/](https://apis.io/providers/askmarcel-app/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [AskMarcel API](https://apis.io/apis/askmarcel-app/askmarcel-api/) — API REST for accessing technical knowledge from AskMarcel.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Askmarcel App Webhooks](https://apis.io/asyncapis/askmarcel-app/askmarcel-app-webhooks/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Askmarcel App Context](https://apis.io/jsonld/askmarcel-app/askmarcel-app-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Ask Marcel API Rules](https://apis.io/rules/askmarcel-app/askmarcel-app-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Askmarcel App Authentication](https://apis.io/security/askmarcel-app/askmarcel-app-authentication/)
+- [Askmarcel App Domain Security](https://apis.io/security/askmarcel-app/askmarcel-app-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Askmarcel App Plans Pricing](https://apis.io/plans/askmarcel-app/askmarcel-app-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://askmarcel.app/)
+- [Documentation](https://askmarcel.app/en/api/docs)
+- [Getting started](https://askmarcel.app/fr/api/docs/quickstart)
+- [API reference](https://askmarcel.app/en/api)
+- [Pricing](https://askmarcel.app/en/pricing)
+- [Support](https://askmarcel.app/fr/support)
+- [Blog](https://askmarcel.app/en/blog)
+- [Privacy policy](https://askmarcel.app/fr/privacy)
+- [GitHub](https://github.com/askmarcel)
+
+## API Evangelist rating
+
+**Kin Score 57.2** — strong · rubric 0.25.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 53.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 63.6 |
+| Access clarity | 62.6 |
+
+**Agent readiness 43.4** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | derived (partial credit) |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 20.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/askmarcel-app/](https://apis.io/providers/askmarcel-app/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ask Marcel: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/askmarcel-app/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
